@@ -2,6 +2,8 @@
 
 <img width="458" alt="Screenshot 2022-09-04 at 3 21 23 PM" src="https://user-images.githubusercontent.com/71970250/188307731-2817fad0-330e-4774-929f-969ea485a42c.png">
 
+In this recommender system the content of the movie (overview, cast, crew, keyword, tagline etc) is used to find its similarity with other movies. Then the movies that are most likely to be similar are recommended.
+
 --> <b> <i> DATASET : </i> </b>
 
 This dataset is taken from https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system/data
